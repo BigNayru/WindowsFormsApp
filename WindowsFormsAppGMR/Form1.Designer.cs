@@ -161,7 +161,7 @@
             // 
             // buttonNouveau
             // 
-            this.buttonNouveau.Font = new System.Drawing.Font("Microsoft Sans Serif", 24F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.buttonNouveau.Font = new System.Drawing.Font("Raleway", 20.2F, System.Drawing.FontStyle.Bold);
             this.buttonNouveau.Location = new System.Drawing.Point(563, 21);
             this.buttonNouveau.Name = "buttonNouveau";
             this.buttonNouveau.Size = new System.Drawing.Size(298, 71);
